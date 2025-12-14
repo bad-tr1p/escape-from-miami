@@ -3,7 +3,7 @@ Escape from Miami is a mod for Hotline Miami 2: Wrong Number that overhauls the 
 Video showcase: [here](https://youtu.be/4BeK4rYsADU)
 
 ## INSTALLATION INSTRUCTIONS:
-1. Download "escape_from_miami_sfx.patchwad" at the top of this page
+1. Download "escape_from_miami_sfx.patchwad" from "Releases"
 2. Navigate to C:\Users\[your username]\Documments
 3. Within the Documents folder, find "My Games"
 4. Open the folder "HotlineMiami2" within "My Games"
