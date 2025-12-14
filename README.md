@@ -4,7 +4,7 @@ Video showcase: [here](https://youtu.be/4BeK4rYsADU)
 
 ## INSTALLATION INSTRUCTIONS:
 1. [Download](https://github.com/bad-tr1p/escape-from-miami/releases/tag/1.0.0) "escape_from_miami_sfx.patchwad"
-2. Navigate to C:\Users\[your username]\Documments
+2. Navigate to C:\Users\ [your username] \Documments
 3. Within the Documents folder, find "My Games"
 4. Open the folder "HotlineMiami2" within "My Games"
 5. Once inside the HotlineMiami2 folder, open "mods" 
